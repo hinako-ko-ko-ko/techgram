@@ -290,6 +290,8 @@
 				DEVELOPMENT_TEAM = 6B7X9487DJ;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Techtagram/Info.plist;
+				INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = "編集した画像をフォトブラリに保存する";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "アプリ内で編集する画像をフォトライブラリから表示する";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -318,6 +320,8 @@
 				DEVELOPMENT_TEAM = 6B7X9487DJ;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Techtagram/Info.plist;
+				INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = "編集した画像をフォトブラリに保存する";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "アプリ内で編集する画像をフォトライブラリから表示する";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
